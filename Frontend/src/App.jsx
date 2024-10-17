@@ -1,4 +1,3 @@
-import './App.css'
 import Form from './Todo/Form'
 
 function App() {
