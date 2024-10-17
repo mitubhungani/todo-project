@@ -1,12 +1,11 @@
-import Form from './Todo/Form'
+import Form from "./Todo/Form";
 
 function App() {
-
   return (
     <>
-      <Form/>
+      <Form />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
